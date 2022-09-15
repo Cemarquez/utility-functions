@@ -3,3 +3,5 @@ function getInitials(name) {
         .map(word => `{word.chart(0).toUpperCase()}.`)
         .join('');
 } 
+
+##aa
